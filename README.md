@@ -40,6 +40,8 @@ The conclusion emphasizes the lasting impact of ancient Chinese mathematical inn
 
 ### 4. Bibliography
 
+---
+
 For more details, please refer to the full text of the paper included in this repository: [Main-Nine-Chapters.pdf](./Main-Nine-Chapters.pdf).
 
 ## Project Directory Structure
